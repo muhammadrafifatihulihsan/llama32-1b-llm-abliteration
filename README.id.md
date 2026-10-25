@@ -11,7 +11,7 @@ Proyek notebook Python untuk mencoba abliteration pada Llama 3.2 1B, membandingk
 - Setup Ollama lokal dan evaluasi respons.
 - Metrik hasil run, grafik perbandingan, dan pengecekan ringan tanpa GPU.
 
-Alurnya berakhir di evaluasi lewat Ollama lokal. Bobot model dan dataset prompt tetap disimpan di komputer sendiri.
+Alurnya berakhir di evaluasi lewat Ollama lokal. Dataset prompt eksperimen disertakan di `data/`. Bobot model saat ini masih tersimpan lokal.
 
 ## Mulai dari sini
 
@@ -56,7 +56,7 @@ src/               Konfigurasi, pembacaan data, generation, dan metrik
 scripts/           Cek repository, buat grafik, dan kemas ZIP
 tests/             Tes fungsi metrik
 docs/              Panduan, gambaran proyek, hasil, dan troubleshooting
-data/              Input CSV lokal; lihat data/README.md
+data/              CSV eksperimen; lihat data/README.md
 models/            File model lokal; lihat models/README.md
 results/reference/ Hasil tersimpan yang disertakan di repository
 ```

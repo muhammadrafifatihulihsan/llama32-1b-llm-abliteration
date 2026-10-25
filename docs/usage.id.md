@@ -92,7 +92,7 @@ prompt,kategori
 
 Dua CSV utama wajib ada. Kalau holdout belum ada, notebook 01 membuatnya melalui loader. Dengan pengaturan default, siapkan minimal 436 baris unik per kelas untuk alokasi 100 holdout, 256 train, dan 80 test. Data lebih sedikit bisa membuat potongan test lebih pendek. Jumlah ini sendiri tidak mengatasi overlap pada alur ekstraksi; baca [catatan hasil](results.md).
 
-Dataset asli tidak disertakan. Memakai data sendiri akan menghasilkan angka yang berbeda. Loader tidak mengunduh dataset pengganti secara otomatis.
+Tiga CSV dataset eksperimen disertakan di `data/`. Memakai data sendiri akan menghasilkan angka yang berbeda. Loader tidak mengunduh dataset pengganti secara otomatis.
 
 ## 5. Jalankan notebook berurutan
 
@@ -156,4 +156,4 @@ python -m unittest discover -s tests -v
 python scripts/package_repo.py
 ```
 
-Paket tersedia di `dist/llama32-1b-llm-abliteration.zip`. Isinya hanya kode, dokumentasi, dan hasil referensi yang sudah dicek. Model, CSV prompt, token, dan respons mentah tidak ikut. Panduan push tersedia di [setup GitHub](github.md).
+Paket tersedia di `dist/llama32-1b-llm-abliteration.zip`. Isinya hanya kode, dokumentasi, dan hasil referensi yang sudah dicek. Tiga CSV prompt eksperimen ikut disertakan. Model, token, dan respons mentah tidak ikut. Panduan push tersedia di [setup GitHub](github.md).

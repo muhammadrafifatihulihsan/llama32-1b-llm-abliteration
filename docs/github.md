@@ -17,7 +17,7 @@ python -m unittest discover -s tests -v
 python scripts/package_repo.py
 ```
 
-The clean ZIP is `dist/llama32-1b-llm-abliteration.zip`. You can extract it into a new folder for a minimal checkout. Model files, prompt CSVs, credentials, raw responses, and local backups are excluded.
+The clean ZIP is `dist/llama32-1b-llm-abliteration.zip`. You can extract it into a new folder for a minimal checkout. The three experiment prompt CSVs are included. Model files, credentials, raw responses, and local backups are excluded.
 
 ## Push to GitHub
 

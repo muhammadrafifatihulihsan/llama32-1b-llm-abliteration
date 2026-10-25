@@ -47,4 +47,4 @@ The inspected GGUF has `general.file_type = 1`, and the converter requests `f16`
 
 The modified-model runs have fewer keyword refusals than the baseline. Because inputs overlap and settings differ, the gap is not a precise measure of what the weight change alone caused. Use the table as a record of these runs, with the input and runtime notes alongside it.
 
-The CSV, chart, aggregate overlap counts, and source-file hashes are in [results/reference](../results/reference/). Raw prompts and responses are kept local. Model inference was not rerun during repository cleanup.
+The CSV, chart, aggregate overlap counts, and source-file hashes are in [results/reference](../results/reference/). The experiment prompt CSVs are included in `data/`; raw generated responses remain local. Model inference was not rerun during repository cleanup.

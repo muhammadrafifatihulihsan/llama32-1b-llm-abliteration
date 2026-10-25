@@ -92,7 +92,7 @@ prompt,kategori
 
 The main CSVs are required. If the holdout file is missing, notebook 01 creates one using the existing loader. With defaults, allow at least 436 distinct rows per class for 100 holdout, 256 training, and 80 test rows; smaller inputs can produce shorter slices. That count alone does not prevent the extraction/evaluation overlap described in [results notes](results.md).
 
-The original local prompt files are not included, and their exact source history is not available. Providing your own inputs means the output will differ. Missing primary CSVs raise an error rather than downloading replacement data.
+The original local prompt files are included in `data/`; their exact source history is not available. Providing your own inputs means the output will differ. Missing primary CSVs raise an error rather than downloading replacement data.
 
 ## 5. Run the notebooks
 
@@ -152,4 +152,4 @@ python -m unittest discover -s tests -v
 python scripts/package_repo.py
 ```
 
-The ZIP is written to `dist/llama32-1b-llm-abliteration.zip`. It contains only the checked source, documentation, and reference results. Models, prompt CSVs, credentials, and raw responses are excluded. See [GitHub setup](github.md) for push commands.
+The ZIP is written to `dist/llama32-1b-llm-abliteration.zip`. It contains only the checked source, documentation, and reference results. The three experiment prompt CSVs are included. Models, credentials, and raw responses are excluded. See [GitHub setup](github.md) for push commands.

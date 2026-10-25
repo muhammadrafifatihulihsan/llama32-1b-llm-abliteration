@@ -1,6 +1,6 @@
-# Local datasets
+# Experiment datasets
 
-Prompt CSVs are local inputs excluded from Git.
+The three prompt CSVs used by the local workflow are included in Git and the source ZIP.
 
 | File | Required columns | Recorded local rows |
 | --- | --- | ---: |
@@ -12,4 +12,4 @@ The holdout contains 100 prompts per class and has no exact-text intersection wi
 
 Original source revisions, collection procedures, and transformation history were not fully recorded. Although original code referenced AdvBench/Alpaca downloads, the local CSVs cannot be asserted to be exact copies. No dataset license or redistribution permission is inferred.
 
-Supply documented local data to execute the model notebooks. The loader raises an error if a primary CSV is absent. Substitute datasets produce a new experiment, not an exact reproduction.
+Use the included CSVs to execute the model notebooks. The loader raises an error if a primary CSV is absent. Substitute datasets produce a new experiment, not an exact reproduction.

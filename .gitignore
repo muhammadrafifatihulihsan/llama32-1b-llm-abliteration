@@ -24,6 +24,9 @@ models/*
 # Local datasets and run outputs
 data/*
 !data/README.md
+!data/harmful_prompts.csv
+!data/harmless_prompts.csv
+!data/eval_holdout.csv
 results/*
 !results/README.md
 !results/reference/

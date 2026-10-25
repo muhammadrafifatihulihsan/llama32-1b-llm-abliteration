@@ -1,0 +1,501 @@
+prompt,kategori
+"What is the capital of France?",Geography
+"Explain how photosynthesis works",Biology
+"Write a poem about autumn",Creative Writing
+"How do I cook spaghetti carbonara?",Cooking
+"What are the health benefits of meditation?",Health
+"Explain quantum computing in simple terms",Technology
+"Tell me about Indonesian culture",Culture
+"What causes earthquakes?",Geology
+"How to start a small business",Business
+"Write a short story about a lost cat",Creative Writing
+"What is machine learning?",Technology
+"How to learn a new language effectively",Education
+"Explain the theory of relativity",Physics
+"What are renewable energy sources?",Environment
+"How to grow tomatoes in a home garden",Gardening
+"Tell me about the history of the Roman Empire",History
+"How does the internet work?",Technology
+"What are the symptoms of vitamin D deficiency?",Health
+"How to meditate for beginners",Wellness
+"Write a resume for a software engineer",Career
+"Explain how vaccines work",Medicine
+"What is the meaning of life?",Philosophy
+"How to make pancakes from scratch",Cooking
+"Tell me about the Solar System",Astronomy
+"How to save money effectively",Personal Finance
+"Explain the water cycle",Earth Science
+"What are good books to read for self-improvement?",Books
+"How to tie a tie",Life Skills
+"Write a cover letter for a job application",Career
+"Explain how the stock market works",Finance
+"What is artificial intelligence?",Technology
+"How to build a website with HTML and CSS",Web Development
+"Tell me about the Great Wall of China",History
+"How to improve your memory",Self-Improvement
+"Explain the process of evolution",Biology
+"What are the best exercises for weight loss?",Fitness
+"How to make a budget plan",Personal Finance
+"Tell me about the ancient Egyptian civilization",History
+"How does GPS work?",Technology
+"What are the benefits of reading books?",Education
+"How to write a research paper",Academic
+"Explain blockchain technology",Technology
+"What is climate change?",Environment
+"How to plan a vacation on a budget",Travel
+"Tell me about Mozart's life and music",Music
+"How to develop a positive mindset",Psychology
+"What is the difference between AI and ML?",Technology
+"Explain how electricity works",Physics
+"How to make homemade pizza",Cooking
+"Tell me about the Amazon rainforest",Environment
+"How to knit a scarf",Crafts
+"Explain the concept of supply and demand",Economics
+"What are the best ways to stay motivated?",Self-Improvement
+"How to change a car tire",Life Skills
+"Tell me about the French Revolution",History
+"How does cryptocurrency work?",Finance
+"Explain the human digestive system",Biology
+"What are the best practices for cybersecurity?",Technology
+"How to paint with watercolors",Art
+"Tell me about the Northern Lights",Nature
+"How to prepare for a job interview",Career
+"Explain the greenhouse effect",Environment
+"What is a healthy daily routine?",Health
+"How to make a YouTube channel",Content Creation
+"Tell me about the history of jazz music",Music
+"How to compost at home",Environment
+"Explain the basics of investing",Finance
+"What are the effects of sleep deprivation?",Health
+"How to bake chocolate chip cookies",Baking
+"Tell me about space exploration",Science
+"How to practice gratitude daily",Wellness
+"Explain the immune system",Biology
+"What are good communication skills?",Self-Improvement
+"How to make your own yogurt",Cooking
+"Tell me about the Renaissance period",History
+"How to organize your digital files",Productivity
+"Explain how engines work",Engineering
+"What are the benefits of team sports?",Sports
+"How to grow herbs indoors",Gardening
+"Tell me about whale migration patterns",Nature
+"How to write a business plan",Entrepreneurship
+"Explain the concept of time dilation",Physics
+"What are the signs of a healthy relationship?",Relationships
+"How to make a vegetable stir-fry",Cooking
+"Tell me about the life cycle of a butterfly",Biology
+"How to create a daily exercise routine",Fitness
+"Explain how nuclear power plants work",Energy
+"What are the best study techniques for students?",Education
+"How to build a birdhouse",DIY
+"Tell me about the history of the internet",Technology
+"How to manage stress at work",Mental Health
+"Explain the difference between stocks and bonds",Finance
+"What are the Seven Wonders of the World?",Geography
+"How to make a simple salad dressing",Cooking
+"Tell me about the culture of Japan",Culture
+"How to do a perfect push-up",Fitness
+"Explain how memory works in the brain",Neuroscience
+"What are the principles of design?",Design
+"How to start a podcast",Content Creation
+"Tell me about endangered species",Environment
+"How to set SMART goals",Self-Improvement
+"Explain how photosynthesis and respiration relate",Biology
+"What are the best free online learning platforms?",Education
+"How to make a campfire safely",Outdoor Skills
+"Tell me about the history of mathematics",Science
+"How to give a great presentation",Communication
+"Explain the concept of natural selection",Biology
+"What are the different types of clouds?",Weather
+"How to make paper mache crafts",Kids Activities
+"Tell me about the Silk Road",History
+"How to take care of a houseplant",Gardening
+"Explain how a refrigerator works",Physics
+"What are the benefits of drinking green tea?",Health
+"How to build a simple robot",Robotics
+"Tell me about the invention of the printing press",History
+"How to tie different knots",Life Skills
+"Explain the concept of karma",Philosophy
+"What are the most populated cities in the world?",Geography
+"How to make homemade bread",Baking
+"Tell me about the water filtration process",Science
+"How to improve your public speaking skills",Communication
+"Explain how radar works",Technology
+"What are the benefits of volunteering?",Community
+"How to write a song",Music
+"Tell me about the Jurassic period",Paleontology
+"How to make a compost bin",Environment
+"Explain the concept of inflation",Economics
+"What are good hobbies for mental health?",Wellness
+"How to build a model airplane",Crafts
+"Tell me about the history of film",Entertainment
+"How to negotiate a salary",Career
+"Explain how fiber optics work",Technology
+"What are the stages of grief?",Psychology
+"How to make a fruit smoothie",Cooking
+"Tell me about bioluminescence in nature",Biology
+"How to improve your handwriting",Life Skills
+"Explain the concept of opportunity cost",Economics
+"What are the benefits of swimming as exercise?",Fitness
+"How to create a vision board",Self-Improvement
+"Tell me about the history of coffee",Culture
+"How to make a simple app without coding",Technology
+"Explain how pollination works",Biology
+"What are the different types of meditation?",Wellness
+"How to fold a fitted sheet",Life Skills
+"Tell me about the migration of monarch butterflies",Nature
+"How to make eco-friendly cleaning products",Environment
+"Explain the concept of artificial neural networks",AI
+"What are the best ways to learn to code?",Programming
+"How to start a vegetable garden from seeds",Gardening
+"Tell me about life in medieval Europe",History
+"How to make a repair a bicycle tire",DIY
+"Explain how sonar technology works",Technology
+"What are the benefits of journaling?",Mental Health
+"How to seasonal eat for better health",Nutrition
+"Tell me about the culture of Bali",Travel
+"How to take professional photos with a smartphone",Photography
+"Explain the process of making cheese",Food Science
+"What are the principles of Feng Shui",Design
+"How to make your own candles",Crafts
+"Tell me about the history of the Olympic Games",Sports
+"How to develop an app idea",Entrepreneurship
+"Explain how the human eye works",Biology
+"What are the benefits of cold showers?",Health
+"How to build a simple bookshelf",DIY
+"Tell me about the culture of India",Culture
+"How to make fermented vegetables",Cooking
+"Explain the concept of entropy in thermodynamics",Physics
+"What are the best tips for online privacy?",Technology
+"How to create a digital art portfolio",Art
+"Tell me about the history of chocolate",Food
+"How to make a healthy granola bar",Cooking
+"Explain how the heart pumps blood",Biology
+"What are the signs of burnout and how to address it?",Mental Health
+"How to start running as a beginner",Fitness
+"Tell me about the history of animation",Entertainment
+"How to make a simple chatbot",Programming
+"Explain the concept of mindfulness",Wellness
+"What are the best strategies for time management?",Productivity
+"How to build a terrarium",Gardening
+"Tell me about the history of the English language",Linguistics
+"How to make sushi at home",Cooking
+"Explain how submarines dive and surface",Engineering
+"What are the most common phobias?",Psychology
+"How to create a sustainable wardrobe",Fashion
+"Tell me about the culture of Morocco",Travel
+"How to make your own toothpaste",DIY
+"Explain the process of making wine",Food Science
+"What are the benefits of being bilingual?",Education
+"How to build a strong handshake",Life Skills
+"Tell me about the history of photography",Technology
+"How to deal with difficult people at work",Relationships
+"Explain how x-rays work",Medicine
+"What are the best houseplants for beginners?",Gardening
+"How to make a healthy smoothie bowl",Cooking
+"Tell me about the Viking age",History
+"How to create a journaling habit",Self-Improvement
+"Explain the concept of machine translation",AI
+"What are the different types of yoga?",Fitness
+"How to sharpen a kitchen knife",Cooking Skills
+"Tell me about the culture of Ethiopia",Culture
+"How to make natural dyes at home",Crafts
+"Explain how black holes form",Astronomy
+"What are the best tips for remote work?",Career
+"How to build a simple database",Programming
+"Tell me about the history of democracy",Political Science
+"How to make a healthy breakfast smoothie",Cooking
+"Explain how wind turbines generate electricity",Renewable Energy
+"What are the different cloud computing services?",Technology
+"How to raise resilient children",Parenting
+"Tell me about the history of paper",Invention
+"How to make a concrete planter",DIY
+"Explain the concept of fake news",Media Literacy
+"What are the benefits of cold plunges?",Wellness
+"How to create a family budget",Personal Finance
+"Tell me about the history of the bicycle",Transportation
+"How to make infused water",Cooking
+"Explain how to identify edible mushrooms",Nature
+"What are the best ways to reduce food waste?",Environment
+"How to build a strong LinkedIn profile",Career
+"Tell me about the culture of Mexico",Travel
+"How to start a reading habit",Self-Improvement
+"Explain the process of recycling plastic",Environment
+"What are the principles of minimalism",Lifestyle
+"How to make a proper cup of tea",Cooking
+"Tell me about the history of vaccines",Medicine
+"How to create an emergency preparedness kit",Safety
+"Explain the concept of a growth mindset",Psychology
+"What are the benefits of nature walks?",Wellness
+"How to write effective email communication",Communication
+"Tell me about the culture of Turkey",Culture
+"How to make a simple animation",Creative
+"Explain how dams generate hydroelectric power",Energy
+"What are the best podcasts for learning?",Education
+"How to build a simple solar panel",Renewable Energy
+"Tell me about the history of zero in mathematics",Science
+"How to make fermented hot sauce",Cooking
+"Explain how the ozone layer protects us",Environment
+"What are the signs of a toxic friendship?",Relationships
+"How to adopt a minimalist wardrobe",Fashion
+"Tell me about the culture of South Korea",Culture
+"How to create a successful morning routine",Productivity
+"Explain the process of making paper from trees",Manufacturing
+"What are the benefits of eating seasonal fruits?",Nutrition
+"How to build a simple weather station",DIY
+"Tell me about the history of the telephone",Technology
+"How to make almond milk at home",Cooking
+"Explain how the Richter scale measures earthquakes",Geology
+"What are the different types of renewable energy?",Environment
+"How to create a capsule wardrobe",Fashion
+"Tell me about the culture of Thailand",Travel
+"How to make a DIY face mask for skincare",DIY Beauty
+"Explain the concept of algorithmic bias",AI Ethics
+"What are the best practices for password security?",Cybersecurity
+"How to build a small business website",Web Development
+"Tell me about the history of maps and cartography",Geography
+"How to make overnight oats",Cooking
+"Explain how desalination plants work",Technology
+"What are the benefits of learning a musical instrument?",Education
+"How to write a short film script",Creative Writing
+"Tell me about the culture of New Zealand",Travel
+"How to identify bird species in your backyard",Nature
+"Explain the process of making steel",Engineering
+"What are the best eco-friendly travel tips?",Travel
+"How to develop emotional intelligence",Self-Improvement
+"Tell me about the history of chess",Games
+"How to make infused olive oil",Cooking
+"Explain how tidal energy works",Renewable Energy
+"What are the signs of a growth mindset in students?",Education
+"How to build a simple game in Python",Programming
+"Tell me about the culture of Ghana",Culture
+"How to create a digital detox plan",Wellness
+"Explain the process of photosynthesis in detail",Biology
+"What are the most effective conflict resolution strategies?",Relationships
+"How to make your home more energy efficient",Environment
+"Tell me about the history of the telescope",Astronomy
+"How to prepare for a marathon",Fitness
+"What are the best strategies for urban gardening in small spaces?",Gardening
+"How to create a pollinator-friendly garden",Environment
+"Explain the process of making kimchi",Cooking
+"What are the health benefits of fermented foods?",Nutrition
+"How to build a home hydroponics system",Gardening
+"Tell me about the history of fermentation",Food Science
+"How to make your own sourdough starter",Baking
+"Explain the science behind baking bread",Food Science
+"What are the best bread recipes for beginners?",Cooking
+"How to make gluten-free bread",Baking
+"Tell me about cheese-making traditions around the world",Food Culture
+"How to create a cheese board for entertaining",Entertaining
+"What are the differences between wine varieties?",Food Culture
+"Explain how to taste wine like a sommelier",Food Culture
+"How to pair wine with food",Food Culture
+"Tell me about coffee brewing methods",Cooking
+"How to make pour-over coffee at home",Cooking
+"Explain the difference between Arabica and Robusta coffee",Food Science
+"What are the best tea varieties for relaxation?",Wellness
+"How to host a tea ceremony",Culture
+"Tell me about the history of tea in China",Culture
+"What are the principles of Japanese garden design",Design
+"How to create a Zen garden",Gardening
+"Explain the concept of wabi-sabi in design",Philosophy
+"What are the best indoor plants for air purification",Gardening
+"How to propagate houseplants from cuttings",Gardening
+"Tell me about the history of botanical illustration",Art
+"How to press and preserve flowers",Crafts
+"What are the benefits of forest bathing (shinrin-yoku)?",Wellness
+"How to identify trees by their leaves",Nature
+"Tell me about the oldest trees in the world",Nature
+"How to make your own herbal tea blends",Wellness
+"What are medicinal properties of common herbs?",Health
+"How to create a home apothecary",DIY
+"Explain the basics of aromatherapy",Wellness
+"What are the best essential oils for sleep?",Health
+"How to make natural soap at home",DIY Beauty
+"Tell me about the history of perfume making",History
+"How to create a capsule wardrobe for travel",Fashion
+"What are the principles of color analysis in fashion",Fashion
+"How to mend and repair clothes",Life Skills
+"Explain the basics of sewing",Crafts
+"What are different types of fabric and their uses?",Fashion
+"How to start a vegetable garden in raised beds",Gardening
+"Tell me about companion planting techniques",Gardening
+"How to save seeds from your garden",Gardening
+"What are heirloom varieties of vegetables?",Gardening
+"How to build a cold frame for winter gardening",DIY
+"Explain the principles of crop rotation",Agriculture
+"What are the best composting methods for small spaces",Environment
+"How to create a worm composting bin",Environment
+"Tell me about the science of soil health",Environment
+"How to test your soil pH at home",Gardening
+"What are natural pest control methods for gardens",Gardening
+"How to attract beneficial insects to your garden",Environment
+"Tell me about the life of bees in a hive",Nature
+"How to start beekeeping as a hobby",Nature
+"What are the benefits of native plants in landscaping",Environment
+"How to design a rain garden",Environment
+"Explain the water-wise landscaping principles",Environment
+"What are xeriscaping techniques for dry climates",Gardening
+"How to build a small pond in your backyard",DIY
+"Tell me about freshwater ecosystems",Nature
+"How to identify bird calls in your area",Nature
+"What are the best binoculars for bird watching",Hobbies
+"How to create a bird-friendly backyard",Nature
+"Tell me about migratory bird patterns",Nature
+"How to photograph birds in the wild",Photography
+"What are the ethics of wildlife photography",Photography
+"How to edit photos like a professional",Photography
+"Tell me about the history of portrait photography",Art
+"What are the best camera settings for landscapes",Photography
+"How to create a photo book of your travels",Creative
+"Explain the rule of thirds in composition",Art
+"What are different styles of painting?",Art
+"How to mix colors for oil painting",Art
+"Tell me about the Impressionist movement",Art History
+"What is abstract expressionism?",Art History
+"How to appreciate modern art",Art
+"Explain the principles of graphic design",Design
+"What are the best free design tools for beginners",Design
+"How to choose fonts for your project",Design
+"Tell me about the history of typography",Design
+"What is color theory in design?",Design
+"How to create a brand identity",Business
+"Explain the basics of marketing strategy",Business
+"What are the differences between B2B and B2C marketing",Business
+"How to write compelling copy for websites",Writing
+"Tell me about storytelling in marketing",Business
+"What are the best social media platforms for small business",Business
+"How to create content that engages audiences",Content Creation
+"Explain the algorithm behind TikTok recommendations",Technology
+"What are the best video editing apps for beginners",Technology
+"How to start a newsletter",Content Creation
+"Tell me about the history of journalism",Media
+"How to fact-check information online",Media Literacy
+"What are the principles of ethical journalism",Media
+"How to conduct an interview effectively",Communication
+"Tell me about the art of active listening",Psychology
+"How to give constructive feedback",Communication
+"What are the best conflict resolution techniques",Relationships
+"How to build trust in a team",Leadership
+"Explain the principles of servant leadership",Leadership
+"What are the qualities of a good mentor",Career
+"How to create a personal development plan",Self-Improvement
+"Tell me about the power of habits",Psychology
+"How to build a morning routine that works",Productivity
+"What are the best productivity systems (GTD, Pomodoro, etc)?",Productivity
+"How to overcome procrastination",Psychology
+"Explain the concept of deep work",Productivity
+"What are the benefits of single-tasking",Productivity
+"How to organize your workspace for focus",Productivity
+"Tell me about the science of motivation",Psychology
+"How to find your ikigai",Philosophy
+"What is the concept of flow state?",Psychology
+"How to practice positive psychology",Wellness
+"Tell me about the history of stoicism",Philosophy
+"What are the teachings of Marcus Aurelius?",Philosophy
+"How to apply stoic principles in modern life",Philosophy
+"What is the difference between happiness and contentment?",Philosophy
+"How to practice mindfulness in everyday activities",Wellness
+"Tell me about the benefits of yoga",Fitness
+"What are the different styles of yoga?",Fitness
+"How to start a home yoga practice",Fitness
+"Explain the basics of meditation for beginners",Wellness
+"What are the different meditation techniques",Wellness
+"How to create a meditation space at home",Wellness
+"Tell me about the science of breathing",Health
+"What are pranayama breathing exercises?",Wellness
+"How to use breathwork for stress relief",Health
+"Explain the benefits of cold exposure therapy",Wellness
+"What is the Wim Hof method?",Health
+"How to start taking cold showers safely",Wellness
+"Tell me about traditional medicine systems around the world",Health
+"What is Ayurveda?",Health
+"How to balance your doshas according to Ayurveda",Wellness
+"Explain the principles of Traditional Chinese Medicine",Health
+"What are the benefits of acupuncture?",Health
+"How does homeopathy work?",Medicine
+"Tell me about the placebo effect",Medicine
+"What are the most promising longevity research areas",Science
+"How to incorporate intermittent fasting safely",Health
+"Explain the science behind ketogenic diet",Nutrition
+"What are the benefits of a plant-based diet",Nutrition
+"How to ensure you get enough protein on a vegetarian diet",Nutrition
+"Tell me about micronutrients and their functions",Health
+"What are the best sources of omega-3 fatty acids",Nutrition
+"How to meal prep for a week of healthy eating",Cooking
+"Create a 7-day healthy meal plan",Nutrition
+"What are budget-friendly healthy foods",Personal Finance
+"How to reduce food waste in your kitchen",Environment
+"Tell me about nose-to-tail cooking",Cooking
+"How to use every part of a vegetable",Cooking
+"What are the best uses for food scraps",Environment
+"How to make vegetable stock from scraps",Cooking
+"Tell me about zero waste living",Environment
+"How to start a zero waste kit",Environment
+"What are plastic-free alternatives for daily use",Environment
+"How to make your own cleaning products",DIY
+"Explain the science behind natural cleaning agents",Science
+"What are non-toxic alternatives for home cleaning",Health
+"How to reduce microplastic pollution",Environment
+"Tell me about the impact of fast fashion",Environment
+"How to build a sustainable wardrobe on a budget",Fashion
+"What are the best eco-friendly clothing brands",Fashion
+"How to organize a clothing swap",Community
+"Tell me about the circular economy",Economics
+"How to repair electronics instead of replacing them",DIY
+"What are right to repair laws?",Technology
+"How to extend the life of your smartphone",Technology
+"Tell me about planned obsolescence",Consumer Rights
+"How to advocate for consumer rights",Community
+"Explain the basics of civic engagement",Community
+"What are effective ways to volunteer in your community",Community
+"How to organize a neighborhood cleanup",Community
+"Tell me about community-supported agriculture",Agriculture
+"How to start a community garden",Gardening
+"What are tool libraries and how do they work?",Community
+"How to share resources in your neighborhood",Community
+"Explain the concept of gift economy",Economics
+"What are time banks?",Community
+"How to participate in local democracy",Civics
+"Tell me about how city planning works",Urban Planning
+"How to make your city more walkable",Urban Planning
+"What are the principles of universal design",Design
+"How to advocate for accessibility in public spaces",Community
+"Explain the Americans with Disabilities Act",Law
+"What are inclusive design practices",Design
+"How to create accessible digital content",Technology
+"Tell me about assistive technologies",Technology
+"How to learn sign language basics",Education
+"What are different communication methods for disabilities",Education
+"How to be an ally to people with disabilities",Community
+"Tell me about neurodiversity",Psychology
+"What are strengths of ADHD in the workplace",Psychology
+"How to support colleagues with autism",Workplace
+"Explain the concept of universal basic income",Economics
+"What are different economic systems?",Economics
+"How does the gig economy work",Economics
+"Tell me about the history of labor unions",History
+"What are workers' rights in the modern economy",Career
+"How to start a cooperative business",Entrepreneurship
+"Tell me about social entrepreneurship",Business
+"How to measure social impact",Business
+"Explain B Corp certification",Business
+"What are the United Nations Sustainable Development Goals",Global Issues
+"How to contribute to SDGs as an individual",Community
+"Tell me about global health initiatives",Global Issues
+"What is the World Health Organization's role",Global Health
+"How do vaccines get distributed worldwide",Medicine
+"Explain the concept of herd immunity",Medicine
+"What are the challenges of pandemic preparedness",Global Health
+"Tell me about the history of epidemiology",Science
+"How does contact tracing work",Medicine
+"What are ethical considerations in public health",Medicine
+"How to communicate science effectively",Science Communication
+"Tell me about science denialism",Psychology
+"What are cognitive biases that affect decision making",Psychology
+"How to think critically about statistics",Education
+"Explain the difference between correlation and causation",Science
+"What is the replication crisis in psychology",Science
+"How to evaluate scientific studies",Education
+"Tell me about the peer review process",Science
+"What is open science?",Science

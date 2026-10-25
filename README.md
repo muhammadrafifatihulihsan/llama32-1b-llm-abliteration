@@ -11,7 +11,7 @@ A Python notebook project for trying abliteration on Llama 3.2 1B, comparing its
 - Local Ollama setup and response evaluation.
 - Saved metrics, a comparison chart, and lightweight checks that run without a GPU.
 
-The workflow ends at local Ollama evaluation. Model weights and prompt datasets stay on your own machine.
+The workflow ends at local Ollama evaluation. The experiment prompt datasets are included in `data/`. Model weights currently remain local.
 
 ## Quick start
 
@@ -56,7 +56,7 @@ src/               Configuration, data loading, generation, and metrics
 scripts/           Repository checks, plotting, and ZIP packaging
 tests/             Metric tests
 docs/              Usage, project overview, results, and troubleshooting
-data/              Local CSV inputs; see data/README.md
+data/              Included experiment CSVs; see data/README.md
 models/            Local model files; see models/README.md
 results/reference/ Saved results included in the repository
 ```

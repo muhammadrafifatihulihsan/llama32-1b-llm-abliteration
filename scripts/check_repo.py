@@ -18,7 +18,8 @@ def public_files():
                             ("scripts", "*.py"), ("tests", "*.py"),
                             (".github/workflows", "*.yml")]:
         files.extend(sorted((ROOT / folder).glob(pattern)))
-    files.extend(ROOT / name for name in ["data/README.md", "models/README.md", "results/README.md",
+    files.extend(ROOT / name for name in ["data/README.md", "data/harmful_prompts.csv", "data/harmless_prompts.csv",
+                 "data/eval_holdout.csv", "models/README.md", "results/README.md",
                  "results/reference/metrics.csv", "results/reference/audit.json", "results/reference/metrics.png"])
     return files
 
@@ -76,7 +77,7 @@ def check():
             allowed = {p.relative_to(ROOT).as_posix() for p in files}
             errors.extend(f"Unexpected publishable file: {p}" for p in tracked if p and p not in allowed)
             probes = [".env", ".local-backup/example", "venv/example", "models/a.safetensors",
-                      "models/gguf/model.gguf", "data/harmful_prompts.csv", "results/generations_log/example.csv"]
+                      "models/gguf/model.gguf", "data/private_example.csv", "results/generations_log/example.csv"]
             ignored = subprocess.run(["git", "check-ignore", "--no-index", *probes], cwd=ROOT,
                                      capture_output=True, text=True)
             errors.extend(f"Missing ignore rule: {p}" for p in probes if p not in ignored.stdout.splitlines())

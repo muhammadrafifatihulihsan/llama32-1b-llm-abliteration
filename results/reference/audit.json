@@ -53,5 +53,5 @@
     "label": "F16",
     "historical_ollama_digest_verified": false
   },
-  "note": "Hashes identify local audit inputs. Raw datasets and generations are not distributed. No new model evaluation was run."
+  "note": "Hashes identify local audit inputs. The three audited dataset CSVs are distributed in data/. Raw generations are not distributed. No new model evaluation was run."
 }
