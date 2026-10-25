@@ -1,0 +1,57 @@
+{
+  "audit_type": "exact-text comparisons of local historical files",
+  "dataset_rows": {
+    "harmful": 500,
+    "harmless": 500,
+    "holdout": 200
+  },
+  "evaluation_overlap_with_first_256_harmful": {
+    "baseline": 40,
+    "abliterated": 36,
+    "ollama_abliterated": 40
+  },
+  "evaluation_pair_overlap": [
+    {
+      "conditions": [
+        "baseline",
+        "abliterated"
+      ],
+      "common_prompts": 10,
+      "same_order": false
+    },
+    {
+      "conditions": [
+        "baseline",
+        "ollama_abliterated"
+      ],
+      "common_prompts": 80,
+      "same_order": true
+    },
+    {
+      "conditions": [
+        "abliterated",
+        "ollama_abliterated"
+      ],
+      "common_prompts": 10,
+      "same_order": false
+    }
+  ],
+  "holdout_overlap": {
+    "harmful": 0,
+    "harmless": 0
+  },
+  "source_file_sha256": {
+    "results/generations_log/baseline_harmful.csv": "87d93c05d5bcfd2e8167640552c5de6b2c15902611e41caa3b05865603373605",
+    "results/generations_log/abliterated_harmful.csv": "61cc0cb8c51040727fba2745b193f1b7b00d72855ab1ba82f2e586820b75111a",
+    "results/generations_log/ollama_harmful.csv": "f5d21ce437beb6fb6783cb1c6ec513a5cbc10a76e4ffa9b12fb4e751eba5fe33",
+    "data/harmful_prompts.csv": "1ea297e00e6a96b97e5082021bc6f02042dfea59e5fd43773a225d160dbaa785",
+    "data/harmless_prompts.csv": "aba37012fe0c2852eeb354c5788498ec1563b269f3f637142eb73970651b359a",
+    "data/eval_holdout.csv": "2571f46f8a60e8a2cd3cba700c55b321045168f1a7f864b1eeb8a8db56e36529"
+  },
+  "gguf_observation": {
+    "file_type": 1,
+    "label": "F16",
+    "historical_ollama_digest_verified": false
+  },
+  "note": "Hashes identify local audit inputs. Raw datasets and generations are not distributed. No new model evaluation was run."
+}

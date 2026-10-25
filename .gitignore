@@ -1,0 +1,41 @@
+# Local environments and private working files
+venv/
+.venv/
+.local-backup/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+*.egg-info/
+build/
+dist/
+# Model weights and generated artifacts are never part of this repository
+models/*
+!models/README.md
+*.safetensors
+*.gguf
+*.pth
+*.pt
+*.bin
+*.joblib
+# Local datasets and run outputs
+data/*
+!data/README.md
+results/*
+!results/README.md
+!results/reference/
+results/reference/*
+!results/reference/metrics.csv
+!results/reference/metrics.png
+!results/reference/audit.json
+report/
+# Secrets and OS files
+*.token
+credentials.json
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

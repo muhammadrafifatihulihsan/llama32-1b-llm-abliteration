@@ -1,0 +1,4 @@
+condition,refusal_rate,asr_heuristic,n_samples,model
+baseline,0.75,0.25,80,Llama-3.2-1B-Instruct / TransformerLens
+abliterated,0.3375,0.6375,80,Llama-3.2-1B-Instruct / abliterated HF
+ollama_abliterated,0.35,0.65,80,Llama-3.2-1B-Instruct / GGUF F16 via Ollama

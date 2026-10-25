@@ -1,0 +1,2 @@
+# Figure regeneration only; no model/GPU required.
+matplotlib>=3.7.0
