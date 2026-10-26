@@ -11,7 +11,21 @@ A Python notebook project for trying abliteration on Llama 3.2 1B, comparing its
 - Local Ollama setup and response evaluation.
 - Saved metrics, a comparison chart, and lightweight checks that run without a GPU.
 
-The workflow ends at local Ollama evaluation. The experiment prompt datasets are included in `data/`. Model weights currently remain local.
+The workflow ends at local Ollama evaluation. The experiment prompt datasets are included in `data/`. Model weights are hosted on [Hugging Face](https://huggingface.co/muhammadrafifatihulihsan/llama32-1b-llm-abliteration).
+
+## Download the model
+
+Built with Llama.
+
+**[Open model on Hugging Face](https://huggingface.co/muhammadrafifatihulihsan/llama32-1b-llm-abliteration)**: Hugging Face weights, tokenizer, GGUF F16, and experiment checkpoints.
+
+Choose only the format you need (approximately 3 GB each). See [download instructions](models/README.md). Code and datasets stay in this GitHub repository.
+
+## Educational and research use
+
+This project and its model artifacts are intended for learning, reproducible research, and controlled evaluation of model behavior. They are not intended to facilitate illegal, harmful, abusive, or deceptive activities, or to bypass a service's rules. Prompts containing harmful requests are evaluation data, not instructions or endorsements.
+
+The modified model has reduced refusal behavior and may generate unsafe, inaccurate, or offensive content. Do not treat its responses as reliable advice or deploy it to end users without an independent assessment and appropriate safeguards. Users must comply with applicable laws, the [Llama 3.2 Community License](docs/llama32-license.md), [Meta's acceptable use policy](https://www.llama.com/llama3_2/use-policy), and the policies of the platforms they use. An educational purpose does not exempt any use from these requirements.
 
 ## Quick start
 
@@ -73,4 +87,4 @@ New runs write to ignored files under `results/`, leaving the reference results 
 - [GitHub setup](docs/github.md): repository details and push commands.
 - [Credits](docs/attribution.md): tools and implementation references.
 
-This repository includes code and saved metrics, not a ready-to-download model. Dependency versions and input data can change the output; the full model workflow has not been rerun as part of this cleanup.
+This repository includes code, datasets, and saved metrics; downloadable model files are hosted separately on Hugging Face. Dependency versions and input data can change the output; the full model workflow has not been rerun as part of this cleanup.

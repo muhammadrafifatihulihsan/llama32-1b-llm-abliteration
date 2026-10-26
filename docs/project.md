@@ -48,4 +48,4 @@ Environment variables live in `.env`; copy the supplied `.env.example`. Batch si
 
 Refusal rate counts matches against the project's English keyword list. The ASR heuristic counts non-refusal responses with more than 50 stripped characters. Neither is a complete assessment of answer quality or safety. The saved data has known sampling and runtime differences; see [results notes](results.md).
 
-The project includes the local conversion/evaluation workflow and its saved results. It does not distribute weights or provide a hosted API.
+The project includes the local conversion/evaluation workflow and its saved results. Model weights are distributed separately on [Hugging Face](https://huggingface.co/muhammadrafifatihulihsan/llama32-1b-llm-abliteration); no hosted inference API is provided.

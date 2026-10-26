@@ -11,7 +11,21 @@ Proyek notebook Python untuk mencoba abliteration pada Llama 3.2 1B, membandingk
 - Setup Ollama lokal dan evaluasi respons.
 - Metrik hasil run, grafik perbandingan, dan pengecekan ringan tanpa GPU.
 
-Alurnya berakhir di evaluasi lewat Ollama lokal. Dataset prompt eksperimen disertakan di `data/`. Bobot model saat ini masih tersimpan lokal.
+Alurnya berakhir di evaluasi lewat Ollama lokal. Dataset prompt eksperimen disertakan di `data/`. Bobot model tersedia di [Hugging Face](https://huggingface.co/muhammadrafifatihulihsan/llama32-1b-llm-abliteration).
+
+## Unduh model
+
+Built with Llama.
+
+**[Buka model di Hugging Face](https://huggingface.co/muhammadrafifatihulihsan/llama32-1b-llm-abliteration)**: tersedia bobot Hugging Face, tokenizer, GGUF F16, dan checkpoint eksperimen.
+
+Pilih format yang diperlukan (sekitar 3 GB per format). Lihat [petunjuk download](models/README.md). Kode dan dataset tetap berada di repository GitHub ini.
+
+## Untuk pembelajaran dan riset
+
+Proyek dan artefak model ini ditujukan untuk pembelajaran, penelitian yang dapat direproduksi, dan evaluasi perilaku model dalam lingkungan terkendali. Proyek ini tidak ditujukan untuk memfasilitasi tindakan ilegal, berbahaya, abusif, menipu, atau melanggar aturan layanan. Prompt berisi permintaan berbahaya merupakan data evaluasi, bukan panduan tindakan atau dukungan terhadap tindakan tersebut.
+
+Model yang dimodifikasi memiliki perilaku penolakan yang berkurang dan dapat menghasilkan konten berbahaya, tidak akurat, atau menyinggung. Jangan menjadikan responsnya sebagai nasihat yang dapat diandalkan atau menerapkannya kepada pengguna akhir tanpa penilaian independen dan pengamanan yang sesuai. Pengguna wajib mematuhi hukum yang berlaku, [lisensi Llama 3.2](docs/llama32-license.md), [kebijakan penggunaan Meta](https://www.llama.com/llama3_2/use-policy), serta kebijakan platform yang digunakan. Tujuan pendidikan tidak membebaskan penggunaan dari ketentuan tersebut.
 
 ## Mulai dari sini
 
@@ -73,4 +87,4 @@ Run baru menulis file lokal di `results/` dan tidak menimpa hasil referensi seca
 - [Setup GitHub](docs/github.md): nama repository, tag, dan perintah push.
 - [Kredit](docs/attribution.md): tools dan referensi implementasi.
 
-Repository ini berisi kode dan hasil run, bukan model siap unduh. Versi dependency dan data input bisa mengubah hasil. Alur model penuh tidak dijalankan ulang saat perapian ini.
+Repository ini berisi kode, dataset, dan hasil run; file model siap unduh tersedia terpisah di Hugging Face. Versi dependency dan data input bisa mengubah hasil. Alur model penuh tidak dijalankan ulang saat perapian ini.
